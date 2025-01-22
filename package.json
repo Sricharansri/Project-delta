@@ -1,11 +1,12 @@
 {
-  "engines": {
-    "node": "21.3.0"
-  },
+  
   "name": "major-project",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "engines": {
+    "node": "22.x"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
